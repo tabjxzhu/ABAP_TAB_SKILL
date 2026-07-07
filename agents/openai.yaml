@@ -1,0 +1,7 @@
+interface:
+  display_name: "SAP TAB ABAP Dev"
+  short_description: "Production-aware ABAP design, review, and troubleshooting"
+  default_prompt: "Use $sap-tab-abap-dev to analyze this ABAP task, state assumptions, surface production risks, and provide a verification plan."
+
+policy:
+  allow_implicit_invocation: true
