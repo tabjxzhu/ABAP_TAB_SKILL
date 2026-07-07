@@ -1,0 +1,23 @@
+# Local secrets
+.env
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local build/cache
+node_modules/
+__pycache__/
+*.pyc
+
+# Private working assets
+config/
+wechat-draft/
+siyuan-export/
+cockpit/
+assets/
+content/
+registry/
